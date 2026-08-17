@@ -8,6 +8,8 @@ Sou estudante de Engenharia de Software, com experiência profissional em Qualit
 
 Busco oportunidades de estágio onde eu possa continuar evoluindo em Desenvolvimento de Software ou Qualidade de Software. Minha experiência em QA me proporcionou contato prático com requisitos, critérios de aceite, identificação de bugs, testes de API e colaboração com equipes de desenvolvimento. Durante a graduação, estou aprofundando também os fundamentos envolvidos na construção do software.
 
+Após desenvolver minha base de lógica e programação estruturada com Portugol/Visualg, estou iniciando meus estudos em linguagem C, aplicando esses fundamentos em uma linguagem de programação.
+
 ## 💻 Desenvolvimento de Software
 
 Atualmente estou construindo fundamentos em:
@@ -15,7 +17,8 @@ Atualmente estou construindo fundamentos em:
 - Lógica de programação;
 - Algoritmos;
 - Programação estruturada;
-- Portugol e Visualg;
+- Portugol / Visualg;
+- Linguagem C — em estudo;
 - SQL e banco de dados;
 - Modelagem de banco de dados;
 - Git e GitHub;
