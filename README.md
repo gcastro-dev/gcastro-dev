@@ -36,16 +36,10 @@ Minha experiência profissional em QA envolveu:
 
 Essa experiência representa meu contato prático com qualidade de software e complementa a formação que estou construindo em desenvolvimento.
 
-## 📌 Projetos e estudos práticos
-
-### Desenvolvimento e fundamentos
+## 📌 Projeto em destaque
 
 - [Visualg_Exercicios](https://github.com/gcastro-dev/Visualg_Exercicios) — exercícios documentados de lógica de programação e algoritmos, acompanhando minha evolução em estruturas sequenciais, condicionais, operadores lógicos, repetições, vetores, matrizes, funções e procedimentos.
 
-### Quality Assurance
-
-Minha experiência prática em QA está descrita acima. Os projetos públicos desta área serão adicionados conforme forem publicados e estiverem prontos para apresentação.
-
 ## Objetivo profissional
 
-Quero desenvolver uma formação que conecte Engenharia de Software, Desenvolvimento e Qualidade. Minha experiência em QA é um diferencial para compreender requisitos, riscos e qualidade do produto, enquanto meus estudos e projetos demonstram a evolução em programação e banco de dados.
+Quero desenvolver uma formação que conecte Engenharia de Software, Desenvolvimento e Qualidade. Minha experiência em QA é um diferencial para compreender requisitos, riscos e qualidade do produto, enquanto meus estudos e o projeto publicado demonstram minha evolução em programação e banco de dados.
