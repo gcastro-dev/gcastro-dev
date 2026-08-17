@@ -17,7 +17,6 @@ Atualmente estou construindo fundamentos em:
 - Lógica de programação;
 - Algoritmos;
 - Programação estruturada;
-- Portugol / Visualg;
 - Linguagem C — em estudo;
 - SQL e banco de dados;
 - Modelagem de banco de dados;
