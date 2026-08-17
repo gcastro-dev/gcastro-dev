@@ -39,5 +39,5 @@ Gosto bastante da área de tecnologia, tenho experiência prática também volta
 <hr>
 
 ##### 💻 Desenvolvimento:
-- [Exercícios de Lógica em Portugal](https://github.com/Gabriel-CQA/Visualg_Exercicios)
+- [Exercícios de Lógica em Portugol](https://github.com/Gabriel-CQA/Visualg_Exercicios)
   
