@@ -1,43 +1,45 @@
-## Olá, meu nome é Gabriel, muito prazer! 👨🏻‍💻
+## Olá! Eu sou Gabriel Castro 👨🏻‍💻
 
-**`Estudante de Engenharia de Software`**
+**Estudante de Engenharia de Software | Desenvolvimento de Software | Qualidade de Software**
 
 ## Sobre mim
-<p align="left">
-Estou cursando o <strong>1º semestre de Engenharia de Software</strong> na Faculdade FACINT, com conclusão prevista para Novembro de 2029.
-  <br>
-  <br>
-Tive minha primeira experiência recentemente como <strong>Estagiário de QA</strong>, para um projeto pequeno, atuei diretamente em processos de garantia de qualidade, criação e execução de casos de teste, testes exploratórios, testes básicos de API e participação de rotinas ágeis como daily, review e planning.
-  <br>
-  <br>
-Gosto bastante da área de tecnologia, tenho experiência prática também voltada para a área de Design Gráfico, onde eu atuei por 2 anos e também sou formado, desenvolvendo peças gráficas e modelos white label para clientes. Minha principal motivação é de nunca ficar parado, sempre buscando me atualizar e contribuir para a entrega de produtos funcionais, estáveis e com alta confiabilidade para todos os clientes.
-  </p>
-  
-## 🔍 Conhecimentos em QA:
 
-- Testes manuais;  
-- Testes exploratórios; 
-- Criação e execução de casos de teste;  
-- Registro e acompanhamento de bugs (Azure DevOps & Jira);
-- Testes básicos de API (Postman);
-- Metodologias ágeis (Scrum);
-- Conhecimento básico em Git;
+Sou estudante de Engenharia de Software, com experiência profissional em Quality Assurance, e atualmente estou desenvolvendo minha formação em programação, banco de dados e desenvolvimento de software.
 
-## 💻 Conhecimentos em Desenvolvimento:
+Busco oportunidades de estágio onde eu possa continuar evoluindo em Desenvolvimento de Software ou Qualidade de Software. Minha experiência em QA me proporcionou contato prático com requisitos, critérios de aceite, identificação de bugs, testes de API e colaboração com equipes de desenvolvimento. Durante a graduação, estou aprofundando também os fundamentos envolvidos na construção do software.
 
-- HTML5 (linguagem de marcação)
-- CSS (Estudando)
-- Testes básicos de API (Postman);
-- Metodologias ágeis (Scrum);
-- Conhecimento básico em Git;
+## 💻 Desenvolvimento de Software
 
+Atualmente estou construindo fundamentos em:
 
-## 📌 Projetos e Estudos Práticos:
-##### 🔍 QA:
-- Em desenvolvimento
+- Lógica de programação;
+- Algoritmos;
+- Programação estruturada;
+- Portugol e Visualg;
+- SQL e banco de dados;
+- Modelagem de banco de dados;
+- Git e GitHub;
+- HTML e CSS.
 
-<hr>
+## 🔍 Experiência prática em Quality Assurance
 
-##### 💻 Desenvolvimento:
-- [Exercícios de Lógica em Portugol](https://github.com/Gabriel-CQA/Visualg_Exercicios)
-  
+Minha experiência profissional em QA envolveu:
+
+- Testes manuais, funcionais e exploratórios;
+- Criação e execução de casos de teste;
+- Análise de requisitos e critérios de aceite;
+- Validação de PBIs;
+- Registro, acompanhamento e reteste de bugs;
+- Testes básicos de API com Postman;
+- Azure DevOps;
+- Participação em rotinas ágeis com Scrum.
+
+Essa experiência representa meu contato prático com qualidade de software e complementa a formação que estou construindo em desenvolvimento.
+
+## 📌 Projeto em destaque
+
+- [Visualg_Exercicios](https://github.com/gcastro-dev/Visualg_Exercicios) — exercícios documentados de lógica de programação e algoritmos, acompanhando minha evolução em estruturas sequenciais, condicionais, operadores lógicos, repetições, vetores, matrizes, funções e procedimentos.
+
+## Objetivo profissional
+
+Quero desenvolver uma formação que conecte Engenharia de Software, Desenvolvimento e Qualidade. Minha experiência em QA é um diferencial para compreender requisitos, riscos e qualidade do produto, enquanto meus estudos e o projeto publicado demonstram minha evolução em programação e banco de dados.
